@@ -6,7 +6,7 @@ It contains defect description, actual value present and suggested new ways.
 
 Requirement: Cypress (Either direct download or with commands)
 
-Import everreal folder in cypress
+Extract and Import everreal folder in cypress
 Click on 'everreal.js' in 'EverReal ExecutionFile' folder
 Chrome would start with execution status displayed in it
 After the execution screenshots will be saved in everreal\cypress\screenshots
