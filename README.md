@@ -1,6 +1,5 @@
 
-Defect summary report contains issues identified in the site. 
-Cypress\EverReal Project\Defect Summary Report.xls
+Defect summary report contains issues identified in the site (Defect Summary Report.xls)
 It contains defect description, actual value present and suggested new ways.
 
 # Instruction to run cypress project
